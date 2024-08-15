@@ -1,0 +1,98 @@
+body {
+    
+    background: rgba(45, 49, 43, 0.295);
+    font-family: "Roboto", sans-serif;
+    background-image: url("https://img.freepik.com/fotos-premium/muchas-estrellas-cielo-negro-noche-cielo-nocturno-realmente-oscuro-muchas-estrellas-fondo-cielo-nocturno_214122-1825.jpg");
+    
+   
+}
+.img1{
+    width: 350px;
+    height: 300px;
+    margin-right: 25px;
+}
+.img2{
+    width: 350px;
+    height: 300px;
+    margin-right: 25px;
+}
+.img3{
+    width: 350px;
+    height: 300px;
+    margin-right: 25px;
+}
+.contenedor{
+    display:flex;
+    justify-content: center;
+   
+}
+.contenedor2{
+    display:flex;
+    justify-content: center;
+   
+}
+.img1{
+    width: 350px;
+    height: 300px;
+    margin-right: 25px;
+}
+.contenedor3{
+    display:flex;
+    justify-content: center;
+   
+}
+.img1{
+    width: 350px;
+    height: 300px;
+    margin-right: 25px;
+}
+
+.video{
+    width: 350px;
+    height: 300px;
+    margin-right: 25px;
+
+}
+
+table {
+    width: 80%;
+    margin: 0 auto;
+    background-color: rgba(144, 166, 218, 0.322);
+    color: rgb(0, 0, 0);
+    text-align:center;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-collapse: center;
+}
+.imagen1{
+    width: 20%;
+    height: auto;
+}
+.in{
+
+position:fixed;
+ right: 10px;
+ top: 10px;
+ float: right;
+ color:rgb(253, 252, 252);
+ font-size:15px;
+ font-family:fantasy
+
+}
+.nombres{
+ color:rgb(0, 0, 0);
+    font-size:15px;
+    font-family:fantasy
+}
+.nombres:hover{
+    color:rgb(250, 249, 253)
+}
+h1{
+    
+    color:rgb(255, 254, 254);
+    text-align: center;
+    font-weight: 400;
+    padding: 20px;
+    font-size:40px;
+    font-family:'Times New Roman', Times, serif
+}
